@@ -1,2 +1,2 @@
 # StoryProjects
-My Story Projects!
+Hello! This is where I will be storing all of my Story Projects (individual Projects)!
